@@ -1,0 +1,2 @@
+C:\Users\ElMehdi\source\repos\tp1\Debug\tp1.exe
+C:\Users\ElMehdi\source\repos\fibo+dictionnaire\dictionnaire\Debug\tp1.exe
